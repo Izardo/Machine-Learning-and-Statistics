@@ -8,16 +8,18 @@ The Scikit Learn project...
 
 The Scipy Stats project...
 
-Completed by: Isabella Doyle
-Student Number: GO0398800
-Lecturer: Ian McLoughlin
+Completed by: Isabella Doyle<br>
+Student Number: GO0398800<br>
+Lecturer: Ian McLoughlin<br>
 
 ## How to view the notebooks
 
 Both static and dynamic versions of the notebooks can be viewed using the buttons below. It is <i><b>recommended</b></i> to use the resources below instead of viewing the notebooks online as often times Github does not render notebooks correctly.
 
 #### Scikit-learn notebook
-    
+
+# Fix binder links
+   
 Static Version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Izardo/Machine-Learning-and-Statistics/blob/main/scikit-learn.ipynb)
 Dynamic Version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Izardo/Machine-Learning-and-Statistics/HEAD?filepath=https%3A%2F%2Fgithub.com%2FIzardo%2FMachine-Learning-and-Statistics%2Fblob%2Fmain%2Fscikit-learn.ipynb)
 
@@ -26,7 +28,7 @@ Dynamic Version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://
 Static Version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Izardo/Machine-Learning-and-Statistics/blob/main/scipy-stats.ipynb)
 Dynamic Version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Izardo/Machine-Learning-and-Statistics/HEAD?filepath=https%3A%2F%2Fgithub.com%2FIzardo%2FMachine-Learning-and-Statistics%2Fblob%2Fmain%2Fscipy-stats.ipynb)
 
-### To view on your machine
+## To view on your machine
 
 If you would like to run the notebook on your own machine:
 
